@@ -1,4 +1,5 @@
 class Song 
   
-  def initialize(song)
+  def song => 0
+      artist => []
   end
