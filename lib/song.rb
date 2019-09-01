@@ -1,6 +1,6 @@
 class Song 
   
-  def song => 0
-      artist => {}
-      genre => {}
+  def song = 0
+      artist = []
+      genre = []
   end
