@@ -1,7 +1,7 @@
 class Song 
   
   def 
-      song = 0
+      count = 0
       artist = []
       genre = []
   end
