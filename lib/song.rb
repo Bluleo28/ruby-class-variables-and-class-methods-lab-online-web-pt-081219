@@ -1,7 +1,7 @@
 class Song 
   
-  def 
-      count = "0"
-      artist = []
-      genre = []
+  def attr_accessor(count, artist, genre)
+      @@count = "0"
+      @@artist = []
+      @@genre = []
   end
