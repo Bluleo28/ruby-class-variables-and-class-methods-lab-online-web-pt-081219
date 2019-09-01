@@ -1,3 +1,4 @@
 class Song 
   
-  def 
+  def initialize(song, artist, genre)
+  end
