@@ -4,4 +4,3 @@ class Song
       @@count = "0"
       @@artist = []
       @@genre = []
-  end
